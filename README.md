@@ -19,7 +19,7 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IonutBirjovanu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IonutBirjovanu&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--
 **IonutBirjovanu/IonutBirjovanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
