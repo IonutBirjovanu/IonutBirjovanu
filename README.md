@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @IonutBirjovanu, a third year Computer Engineering student
+👋 Hi, I’m @IonutBirjovanu, a graduate Computer Engineering student
 <br>👀 I’m interested in robotics, engineering and programming
 <br>📫 How to reach me ionut.birjovanu@outlook.com
 
